@@ -13,4 +13,3 @@ Donnet Hernandez
 Yuu Ricardo Akachi
 
 Pablo Monzon
-
