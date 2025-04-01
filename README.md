@@ -22,7 +22,7 @@ git clone https://github.com/cecypd2/computo_en_la_nube.git
 cd computo_en_la_nube
 ```
 
-### Paso 3: Ejecución de los Notebooks
+### Paso 2: Ejecución de los Notebooks
 1. **Limpieza de Datos:** Ejecuta `limpieza.ipynb` para procesar los datos iniciales.
 2. **Entrenamiento del Modelo:** Corre `model.ipynb` para generar el modelo de Machine Learning.
 3. **Despliegue del Modelo:** Ejecuta `despliegue.ipynb` para preparar el modelo para producción.
